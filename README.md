@@ -76,11 +76,11 @@ Responsive portfolio website showcasing projects and skills
 
 <div align="center">
   
-![Shobinn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shobinn24&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Shobinn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shobinn24&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobinn24&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobinn24&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobinn24&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shobinn24&theme=dark&hide_border=true)
 
 </div>
 
