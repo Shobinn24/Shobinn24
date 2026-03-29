@@ -1,7 +1,7 @@
 # Hi there, I'm Shobinn Clark 👋
 
 <div align="center">
-  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome)](https://Shobinn24.github.io/Portfolio_Project_Lab_2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shobinn-clark-27722a85/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:Shobinn24@gmail.com)
@@ -10,72 +10,81 @@
 
 ## 🚀 About Me
 
-Full-Stack Software Engineer graduating from **Flatiron School** in **March 2026**, actively seeking **QA Engineer and Junior Developer roles** starting **April 2026**.
+Full-Stack Software Engineer and **Flatiron School** graduate with production experience building SaaS platforms. Founder of **E-Clarx LLC**. Seeking **Software Engineer, QA Engineer, and Full-Stack Developer roles**.
 
-- 🎯 **Focus:** Quality Assurance, Testing, and Building Reliable Software
+- 🎯 **Focus:** Building production-grade applications with comprehensive testing (811+ tests across projects)
 - 💼 **Background:** E-commerce (E-Clarx LLC), Banking (Capital One), Technical Trades
-- 🌱 **Currently Learning:** Advanced JavaScript, React, Testing Frameworks
+- 🔧 **Building:** Multi-marketplace e-commerce tools and legal-tech SaaS platforms
 - 📍 **Location:** White Plains, MD | Open to remote opportunities
-- ⚡ **Fun Fact:** Built an NBA trivia CLI with **71 Jest test cases** to demonstrate QA expertise
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ### Testing & QA
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-TDD/BDD-green?style=for-the-badge)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🏆 Featured Projects
 
+### [🔄 KonvertIt — Multi-Marketplace Product Converter](https://github.com/Shobinn24/KonvertIt)
+Production SaaS platform that converts Amazon & Walmart listings into optimized eBay drafts. Built for E-Clarx LLC.
+- 🛒 Scrapes product data from Amazon & Walmart with proxy rotation and circuit-breaker resilience
+- 🎯 6-step eBay title optimization engine and 3 professional description templates
+- 💰 Profit calculator with eBay fee-aware pricing and VeRO brand compliance checking
+- 📡 Real-time WebSocket notifications, SSE bulk conversion streaming, and tiered rate limiting
+- 🧪 **811 tests** (unit, integration, E2E) with CI/CD via GitHub Actions
+- 💳 Stripe subscription billing with free/pro/enterprise tiers
+
+**Tech:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Docker` `Playwright` `Stripe`
+
+---
+
+### [⚖️ Case Raft — Legal Reporting Tool](https://github.com/Shobinn24/case-raft)
+SaaS reporting tool for solo law firm attorneys. Integrates with **Clio Manage** to generate comprehensive case reports as downloadable PDFs.
+- 🔐 OAuth 2.0 integration with Clio Manage API for live case data
+- 📄 Comprehensive PDF reports: matter details, billing, invoices, opposing parties, court contacts
+- 📦 Batch report generation — select up to 20 cases at once
+- 🔍 Search and filter cases by number, description, client name, or status
+
+**Tech:** `Python` `Flask` `React` `PostgreSQL` `WeasyPrint` `Docker` `OAuth 2.0`
+
+**🔗 [Live at caseraft.com →](https://caseraft.com)**
+
+---
+
 ### [🏀 NBA Trivia CLI Game](https://github.com/Shobinn24/nba-trivia-cli)
-Interactive command-line trivia game showcasing comprehensive testing practices
+Interactive command-line trivia game with comprehensive test coverage
 - ✅ **71 Jest test cases** covering unit, integration, and edge cases
 - 🎯 Async/await patterns for API integration
 - 🔧 Modular architecture with separation of concerns
-- 📊 Real-time scoring and performance evaluation
 
-**Tech:** `JavaScript` `Node.js` `Jest` `Async/Await` `CLI Development`
-
----
-
-### [🧮 Calculator with History](https://github.com/Shobinn24/Flatiron_Summative_Lab1)
-Full-featured calculator with persistent history and robust error handling
-- 🛡️ Division-by-zero prevention and input validation
-- 💾 LocalStorage persistence for calculation history
-- ⌨️ Keyboard support for enhanced UX
-- 🎨 Modern, responsive UI with event listeners
-
-**Tech:** `JavaScript` `HTML5` `CSS3` `LocalStorage` `Event Handling`
-
----
-
-### [🌐 Professional Portfolio](https://github.com/Shobinn24/Portfolio_Project_Lab_2)
-Responsive portfolio website showcasing projects and skills
-- 📱 Fully responsive design (mobile, tablet, desktop)
-- ✨ Smooth scrolling navigation and animations
-- 🎯 Intersection Observer API for performance
-- 🎨 Modern gradient design with CSS Grid & Flexbox
-
-**Tech:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
-
-**🔗 [View Live Portfolio →](https://Shobinn24.github.io/Portfolio_Project_Lab_2)**
+**Tech:** `JavaScript` `Node.js` `Jest` `Async/Await`
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![Shobinn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shobinn24&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobinn24&layout=compact&theme=radical&hide_border=true)
@@ -88,63 +97,62 @@ Responsive portfolio website showcasing projects and skills
 
 ```javascript
 const shobinnClark = {
-  education: "Flatiron School Full-Stack Software Engineering Bootcamp",
-  graduation: "March 2026",
-  availability: "April 2026",
-  
+  education: "Flatiron School — Full-Stack Software Engineering (Graduated March 2026)",
+
+  production: {
+    konvertIt: "Multi-marketplace converter with 811 tests, Stripe billing, WebSocket notifications",
+    caseRaft: "Legal SaaS live at caseraft.com — Clio integration, PDF reports, OAuth 2.0",
+    eClarx: "Founded E-Clarx LLC — building real software products for real users"
+  },
+
   strengths: [
-    "Quality Assurance & Testing (71+ test cases in portfolio)",
-    "Problem-solving from diverse professional background",
-    "Attention to detail from technical trades experience",
-    "Customer focus from banking and e-commerce",
-    "Self-motivated learner and business owner"
+    "Production SaaS experience — not just tutorials, real deployed products",
+    "Testing discipline — 811+ tests across projects with CI/CD enforcement",
+    "Full-stack fluency — Python + JavaScript, FastAPI + React, PostgreSQL + Redis",
+    "Business owner mindset — shipping features that serve actual customers",
+    "Diverse background — banking, e-commerce, technical trades"
   ],
-  
+
   lookingFor: [
+    "Software Engineer roles",
+    "Full-Stack Developer positions",
     "QA Engineer roles",
-    "Junior Developer positions",
-    "Testing-focused opportunities",
-    "Entry-level software engineering"
+    "Startup or growth-stage teams"
   ],
-  
-  workStyle: "Remote-friendly | Collaborative | Quality-driven"
+
+  workStyle: "Remote-friendly | Ship fast, test thoroughly | Quality-driven"
 };
 ```
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-**Flatiron School** - Full-Stack Software Engineering Bootcamp  
+**Flatiron School** — Full-Stack Software Engineering Bootcamp
 *December 2025 - March 2026*
-- Comprehensive curriculum covering JavaScript, React, Node.js, and testing
-- Hands-on projects with real-world applications
-- Focus on best practices, clean code, and test-driven development
+- JavaScript, Python, React, Flask, FastAPI, SQL, and testing
+- Built production applications beyond coursework
+- Test-driven development and CI/CD practices
 
 ## 📈 Current Focus
 
-- 🧪 Expanding testing knowledge with advanced Jest patterns
-- ⚛️ Building React applications with state management
-- 🔗 API integration and RESTful design
-- 📚 Studying QA methodologies and best practices
-- 💻 Contributing to open-source projects
+- 🚀 Scaling KonvertIt with new marketplace integrations
+- ⚖️ Expanding Case Raft features for law firm workflows
+- 🧪 Advanced testing patterns and observability
+- 🐍 Deepening Python backend expertise (async, concurrency, system design)
+- 💼 Actively interviewing for engineering roles
 
 ## 📫 Let's Connect!
 
-I'm actively seeking opportunities to join a team where I can contribute my testing mindset, diverse background, and passion for building quality software.
+I build production software that solves real problems. Let's talk.
 
 - 🌐 **Portfolio:** [shobinn24.github.io/Portfolio_Project_Lab_2](https://Shobinn24.github.io/Portfolio_Project_Lab_2)
 - 💼 **LinkedIn:** [linkedin.com/in/shobinn-clark-27722a85](https://www.linkedin.com/in/shobinn-clark-27722a85/)
 - 📧 **Email:** Shobinn24@gmail.com
 - 📍 **Location:** White Plains, MD
-- 💬 **Ask me about:** Testing strategies, JavaScript, career transitions into tech
 
 ---
 
 <div align="center">
 
-### 🌟 "Quality is not an act, it is a habit" - Aristotle
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shobinn24&color=blueviolet&style=for-the-badge)
-
-⭐️ From [Shobinn24](https://github.com/Shobinn24)
 
 </div>
